@@ -18,3 +18,5 @@ In the blockchain world, **Agile practices are not optional — they are essenti
 ✅ Quick response to changes  
 
 🚀 Since blockchain technology evolves so fast, being Agile is a **must-have mindset** for developers who want to succeed in this field.
+
+It was interesting to read about the similar but slightly different skillset blockchain developers and software developers have. Something I didn't expect was JavaScript being a skill blockchain developers needed. I honestly didn't know what blockchain developers really did so this article was a good read! - **Ian Jiang**
