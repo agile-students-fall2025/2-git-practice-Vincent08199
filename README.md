@@ -1,4 +1,4 @@
-# 📘 Assignment 1 - Git & GitHub Practice
+# 📘 Assignment - Git & GitHub Practice
 
 ## 🔗 Interesting Article
 👉 [Blockchain Developer vs Software Developer: Key Differences](https://taikai.network/blog/blockchain-developer-vs-software-developer)
